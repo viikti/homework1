@@ -1,0 +1,102 @@
+section {
+    padding: 50px 0px;
+}
+
+.container {
+    max-width: 1170px;
+    padding: 0 15px;
+    margin: auto;
+
+}
+
+
+.options__title {
+    width: 400px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    padding: 50px 0px 40px 0px;
+    margin: auto;
+}
+
+.options__line {
+    border: 1px solid #EC7979;
+    width: 170px;
+    ;
+    margin: auto;
+}
+.options__text {
+
+    margin: 40px 0px 59px 0px;
+    text-align: center;
+    color: #86878B;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    font-family: Raleway;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 21px;
+        color: #86878B;
+}
+.options{
+    background-color: #F5F5F5;
+}
+.options__wraper{
+display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 30px;
+    margin-top: 70px;
+    text-align: center;
+}
+.options__wraper__offer1{
+    border: 2px solid #F5F5F5;
+    }
+    .options__wraper__name{
+        font-family: 'Open Sans';
+            color: #FFFFFF;
+            background-color: #333333;
+            padding: 14px 0px;
+            border: 2px solid #F5F5F5;
+    }
+    .options__wraper__price{
+        font-family: 'Raleway' sans-serif;
+            font-weight: 700;
+            font-size: 36px;
+            line-height: 42px;
+            color: #FFFFFF;
+            padding: 29px 0px;
+            background-color: #333333;
+            border: 2px solid #F5F5F5;
+    }
+    .options__wraper__discount{
+        font-family: 'Raleway' sans-serif;
+            font-weight: 400;
+            font-size: 18px;
+            line-height: 21px;
+            padding: 15px 0px;
+            color: #86878B;
+            background-color: #333333;
+            border: 2px solid #F5F5F5;
+    }
+    .options__wraper__item{
+        font-family: 'Raleway';
+            font-weight: 400;
+            font-size: 18px;
+            line-height: 21px;
+            padding: 15px 0px;
+            color: #86878B;
+            background-color: #FFFFFF;
+            border: 2px solid #F5F5F5;
+    }
+.options__wraper__medium{
+    box-shadow: 0px 4px 10px rgba(51, 51, 51, 0.2);
+        margin-top: -20px;
+        margin-bottom: 70px;
+
+}
